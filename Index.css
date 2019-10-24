@@ -45,6 +45,14 @@ nav {
     position: fixed;
 }
 
+
+nav li a:hover{
+    background: white;
+    color: black;
+    transition: all 250ms ease-in;
+}
+
+
 .box {
     height: 1000px;
     border-bottom: 1px solid gray;
