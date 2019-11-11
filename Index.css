@@ -15,7 +15,27 @@ h1{
 h2{
     text-align: center;
     font-size: 50px;
-    margin-top: 100px;
+    margin-top: 40px;
+    /* font-family: Arial; */
+    font-weight: lighter;
+    color: black;
+    padding-bottom: 20px;
+}
+
+h4{
+    text-align: center;
+    font-size: 50px;
+    /* margin-top: 40px; */
+    /* font-family: Arial; */
+    font-weight: lighter;
+    color: black;
+    padding-bottom: 20px;
+}
+
+p{
+    color: black;
+    font-size: 25px;
+    padding-bottom: 50px;
 }
 
 ul {
@@ -29,6 +49,19 @@ ul {
 .pics{
     display: inline-block;
     margin-top: 30px;
+}
+
+.Pics2{
+    /* margin-top: 80px;
+    margin-right: 700px;
+    display: inline-block;
+    position: relative; */
+    float: left;
+    margin-top: 200px;
+}
+
+.Text{
+    display: inline-block;
 }
 
 /* h3{
@@ -79,9 +112,10 @@ nav li a:hover{
 }
 
 #about{
-    background-color: lightslategrey;
+    background-color: white;
 }
 
 #activities {
-    background-color: lightgreen;
+    background-color: white;
 }
+
