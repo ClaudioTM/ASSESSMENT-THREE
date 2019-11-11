@@ -14,7 +14,7 @@ h1{
 
 h2{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 40px;
     /* font-family: Arial; */
     font-weight: lighter;
@@ -24,7 +24,7 @@ h2{
 
 h4{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     /* margin-top: 40px; */
     /* font-family: Arial; */
     font-weight: lighter;
@@ -51,17 +51,14 @@ ul {
     margin-top: 30px;
 }
 
-.Pics2{
-    /* margin-top: 80px;
-    margin-right: 700px;
-    display: inline-block;
-    position: relative; */
+.float-img{
     float: left;
-    margin-top: 200px;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 
 .Text{
-    display: inline-block;
+    margin-top: 60px;
 }
 
 /* h3{
@@ -117,5 +114,6 @@ nav li a:hover{
 
 #activities {
     background-color: white;
+    height: 1200px;
 }
 
