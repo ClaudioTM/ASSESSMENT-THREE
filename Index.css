@@ -16,7 +16,6 @@ h2{
     text-align: center;
     font-size: 40px;
     margin-top: 40px;
-    /* font-family: Arial; */
     font-weight: lighter;
     color: black;
     padding-bottom: 20px;
@@ -25,8 +24,6 @@ h2{
 h4{
     text-align: center;
     font-size: 40px;
-    /* margin-top: 40px; */
-    /* font-family: Arial; */
     font-weight: lighter;
     color: black;
     padding-bottom: 20px;
@@ -55,17 +52,13 @@ ul {
     float: left;
     margin-top: 10px;
     margin-left: 20px;
+    padding: 10px;
 }
 
 .Text{
     margin-top: 60px;
 }
 
-/* h3{
-    color:black;
-    font-size: 35px;
-    text-decoration: none;
-} */
 
 li{
     display: inline-block;
@@ -106,6 +99,7 @@ nav li a:hover{
 
 #home{
     background-color: white;
+    height: 950px;
 }
 
 #about{
